@@ -1,2 +1,2 @@
 # mlops-project
-my firsdt mlops practical
+my first mlops practical
