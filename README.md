@@ -1,2 +1,6 @@
 # mlops-project
-my first mlops practical
+Goal:
+github version control system
+Dataset:
+iris.csv
+created by Trupti Sakhare
